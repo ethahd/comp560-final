@@ -7,9 +7,9 @@
 This project predicts median student earnings 10 years after enrollment using the U.S. Department of Education College Scorecard dataset. We train a Linear Regression baseline and a Feedforward Neural Network (FFN), compare their performance, and deploy the FFN behind a Gradio web interface that calls the Claude API to generate natural-language career insights.
 
 ## Methods
-- **Linear Regression** — MSE loss, standardized features
-- **Feedforward Neural Network** — 3 hidden layers, ReLU, Dropout, trained via backpropagation for 150 epochs
-- **Frontend** — Gradio UI + Claude API for salary prediction and career advice
+- **Linear Regression** - MSE loss, standardized features
+- **Feedforward Neural Network** - 3 hidden layers, ReLU, Dropout, trained via backpropagation for 150 epochs
+- **Frontend** - Gradio UI + Claude API for salary prediction and career advice
 
 ## Results
 | Model | MAE | RMSE | R² |
