@@ -1,6 +1,6 @@
 # Predicting Post-Graduation Earnings with Machine Learning
 
-**COMP 560 — Artificial Intelligence | UNC Chapel Hill**
+**COMP 560 - Artificial Intelligence | UNC Chapel Hill**
 **Authors:** Gili Horwitz, Ethan Ahdout, John Sebastian, Daniel Kane
 
 ## Overview
