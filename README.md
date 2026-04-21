@@ -19,7 +19,7 @@ This project predicts median student earnings 10 years after enrollment using th
 
 ## Repository Files
 - `college_salary_prediction.ipynb` — full pipeline: load, preprocess, train, evaluate, demo
-- `college_scorecard_clean.csv` — cleaned 950-institution dataset (bundled for fast reproducibility)
+- `college_scorecard_clean.csv` — cleaned 950-institution dataset
 - `ffn_model.pt` — saved FFN weights (load with `torch.load()`)
 - `lr_model.pkl` — saved Linear Regression model
 - `scaler.pkl` — fitted StandardScaler for preprocessing new inputs
