@@ -1,7 +1,7 @@
 # Predicting Post-Graduation Earnings with Machine Learning
 
 **COMP 560 — Artificial Intelligence | UNC Chapel Hill**
-**Authors:** Gili Horwitz, Ethan Ahdout, John, Daniel
+**Authors:** Gili Horwitz, Ethan Ahdout, John Sebastian, Daniel Kane
 
 ## Overview
 This project predicts median student earnings 10 years after enrollment using the U.S. Department of Education College Scorecard dataset. We train a Linear Regression baseline and a Feedforward Neural Network (FFN), compare their performance, and deploy the FFN behind a Gradio web interface that calls the Claude API (Anthropic) to generate natural-language career insights.
